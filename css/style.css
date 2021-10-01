@@ -1,0 +1,28 @@
+﻿* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+.navbar-brand {
+	font-size: 50px;
+}
+
+.panel-heading h1 {
+	font-size: 30px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.form-group {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.form-group label {
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.radio-inline {
+	padding-right: 10px;
+}
